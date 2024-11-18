@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://github.com/thecodefan/Product-preview-card-component
 - Live Site URL:
 
 ## My process
